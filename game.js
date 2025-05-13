@@ -63,6 +63,7 @@ $(document).keydown(function(event){
 function startOver(){
     level=0;
     gamePattern=[];
+    userClickedPattern=[];
     started=false;
 }
 
